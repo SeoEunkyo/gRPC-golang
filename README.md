@@ -1,4 +1,4 @@
-## gRPC를 golang으로 example code를 제작
+## gRPC 예제를 golang으로 만들었습니다.
 설명은 아래 링크를 확인하세요.
 
 
